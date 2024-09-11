@@ -24,7 +24,7 @@ Here are some tools and technologies I'm proficient in (and ones I'm learning):
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ### My professional experiences
-#### Full Stack Software Engineer
+#### 💻 Full Stack Software Engineer
 Khoury College of Computer Sciences X Industry Sponsor
 July 2024 – Present
 - Leveraging modern cloud technologies like AWS and Azure to design a microservice-based internal platform for enterprise notification management aimed to be used by 3000+ users across multiple teams.
@@ -32,14 +32,14 @@ July 2024 – Present
 - Collaborating in a consulting team of 6 to plan, design and architect the entire application from scratch.
 - Working with high-level company executives, key stakeholders and product managers.
 
-#### UX Designer
+#### 🎨 UX Designer
 Stealth Cybersecurity AI Startup
 May 2024 – June 2024
 - Partnered with the Lead UX Designer to define the design system and wireframes for the initial launch MVP product.
 - Developed a custom Figma plugin to convert Figma design tokens to JSON, to streamline the front-end pipeline.
 - Applied Material UI and D3.js to create intuitive and seamless dashboard widgets, enhancing the user experience.
 
-#### Web Developer
+#### 🌐 Web Developer
 Mabl
 January 2023 – June 
 -	Published [this blog post](https://www.mabl.com/blog/improving-performance-and-the-multilingual-user-experience-on-mabl.com) about my contributions through the co-op, which involved working with the Head of Design and Brand to optimize the web experience through SEO, new functionality and Japanese language support.
