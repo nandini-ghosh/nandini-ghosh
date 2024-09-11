@@ -15,4 +15,4 @@ I'm Nandini, a passionate UI/UX designer and front-end developer. I specialise i
 
 ### My toolbelt
 Here are some tools and technologies I'm proficient in (and ones I'm learning):
-![github](https://img.shields.io/badge/GitHub-000000?hello&logo=GitHub&logoColor=red)]
+![github](https://img.shields.io/badge/GitHub-000000?hello&logo=GitHub&logoColor=white)]
