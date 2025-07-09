@@ -32,7 +32,7 @@ a full-stack SaaS solution for Khoury College, that extends GitHub Classroom by 
 - Translating prototypes into a frontend interface in collaboration with Backend and DevOps leads.
 
 #### 🎨 UX Designer
-Stealth Cybersecurity AI Startup
+Tuskira
 May 2024 – June 2024
 - Partnered with the Lead UX Designer to define the design system and wireframes for the initial launch MVP product.
 - Developed a custom Figma plugin to convert Figma design tokens to JSON, to streamline the front-end pipeline.
