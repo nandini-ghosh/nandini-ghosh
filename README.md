@@ -23,8 +23,8 @@ Here are some tools and technologies I'm proficient in (and ones I'm learning):
 
 ### My professional experiences
 #### 💻 UX Engineer
-_Khoury College of Computer Sciences_
-July 2024 – December 2024
+Khoury College of Computer Sciences
+_July 2024 – December 2024_
 - Spearheading UX design and front-end development on a student-led Agile team of software consultants to architect
 a full-stack SaaS solution for Khoury College, that extends GitHub Classroom by adding extensive grading support.
 - Working with product stakeholders and managers to conduct user research and assess business needs.
@@ -32,15 +32,15 @@ a full-stack SaaS solution for Khoury College, that extends GitHub Classroom by 
 - Translating prototypes into a frontend interface in collaboration with Backend and DevOps leads.
 
 #### 🎨 UX Designer
-_Tuskira_
-May 2024 – June 2024
+Tuskira
+_May 2024 – June 2024_
 - Partnered with the Lead UX Designer to define the design system and wireframes for the initial launch MVP product.
 - Developed a custom Figma plugin to convert Figma design tokens to JSON, to streamline the front-end pipeline.
 - Applied Material UI and D3.js to create intuitive and seamless dashboard widgets, enhancing the user experience.
 
 #### 🌐 Web Developer
-_Mabl_
-January 2023 – June 
+Mabl
+_January 2023 – June_
 -	Published [this blog post](https://www.mabl.com/blog/improving-performance-and-the-multilingual-user-experience-on-mabl.com) about my contributions through the co-op, which involved working with the Head of Design and Brand to optimize the web experience through SEO, new functionality and Japanese language support.
 -	Improved the website performance by modularizing ~10,000 lines of stylesheet code and reducing page speed to 2.8 seconds, boosting the mobile performance to 98% (as measured by Google Lighthouse metrics).
 -	Created Figma prototypes for the Product team to further develop the mabl App dark mode UI.
