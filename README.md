@@ -24,13 +24,14 @@ Here are some tools and technologies I'm proficient in (and ones I'm learning):
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ### My professional experiences
-#### 💻 Full Stack Software Engineer
-Khoury College of Computer Sciences X Industry Sponsor
-July 2024 – Present
-- Leveraging modern cloud technologies like AWS and Azure to design a microservice-based internal platform for enterprise notification management aimed to be used by 3000+ users across multiple teams.
-- Spearheading front-end development and UI design on an Agile team architecting a full-stack SaaS product.
-- Collaborating in a consulting team of 6 to plan, design and architect the entire application from scratch.
-- Working with high-level company executives, key stakeholders and product managers.
+#### 💻 UX Engineer
+Khoury College of Computer Sciences
+July 2024 – December 2024
+- Spearheading UX design and front-end development on a student-led Agile team of software consultants to architect
+a full-stack SaaS solution for Khoury College, that extends GitHub Classroom by adding extensive grading support.
+- Working with product stakeholders and managers to conduct user research and assess business needs.
+- Designing wireframes on Figma to map product features, developing a design system that meets WCAG standards.
+- Translating prototypes into a frontend interface in collaboration with Backend and DevOps leads.
 
 #### 🎨 UX Designer
 Stealth Cybersecurity AI Startup
